@@ -9,7 +9,6 @@ Algorithms: Design and Analysis Coursera Stanford, Part I.
 Programming Assignment 1:
 Sorting an array and counting inversions
 
-
 @author: Zoran Jaksic
 '''
 
